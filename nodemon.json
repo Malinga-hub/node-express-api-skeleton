@@ -1,0 +1,9 @@
+{
+    "env" : {
+        "HOST": "localhost",
+        "MONGODB_PORT": "27017",
+        "SERVER_PORT": "3000",
+        "DB": "expressapi",
+        "SECRET_KEY": "expressapi@secure123!"
+    }
+}
